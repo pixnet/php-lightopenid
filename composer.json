@@ -1,5 +1,5 @@
 {
-    "name": "pixnet/lightopenid",
+    "name": "pixnet/php-lightopenid",
     "type": "library",
     "keywords": ["openid"],
     "homepage": "https://gitorious.org/lightopenid/lightopenid",
